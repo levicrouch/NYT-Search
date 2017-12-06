@@ -1,0 +1,24 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgb(6, 6, 73);
+    color: white;
+}
+
+.panel-default .panel-heading {
+    background-color: rgb(6, 6, 73);
+    color: white;
+}
+
+.panel {
+    border: 2px solid rgb(6, 6, 73);
+}
+
+.btn {
+    background-color: lightslategray;
+    color: white;
+}
+
+.output {
+    margin: 5px;
+    background-color: rgb(228, 225, 225);
+}
